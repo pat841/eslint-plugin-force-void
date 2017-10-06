@@ -1,0 +1,22 @@
+{
+  "name": "eslint-plugin-force-void",
+  "version": "1.0.1",
+  "description": "ESLint rule to force returning void 0",
+  "keywords": [
+    "eslint",
+    "eslint-plugin"
+  ],
+  "author": "Pat Herlihy <pat841@bu.edu>",
+  "homepage": "https://github.com/pat841/eslint-plugin-force-void",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pat841/eslint-plugin-force-void.git"
+  },
+  "peerDependencies": {
+    "eslint": ">=3.0.0"
+  },
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "license": "MIT"
+}
